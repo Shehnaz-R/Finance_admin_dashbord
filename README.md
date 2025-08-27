@@ -20,7 +20,7 @@ It provides an interactive and responsive interface for tracking **income, expen
 - 💼 **Investments List** with performance indicators  
 - 🧾 **Recent Transactions** for quick overview  
 - 🌙 **Dark/Light Mode Toggle**  
-- ⚡ **Responsive Design** (works on desktop & mobile)  
+- ⚡ **Responsive Design** (works on desktop & mobile).  
 
 ---
 
