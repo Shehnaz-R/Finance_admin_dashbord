@@ -7,8 +7,6 @@ It provides an interactive and responsive interface for tracking **income, expen
 
 👉 [View Live Demo](https://financeadmindashbord-git-main-shehnaz-rs-projects.vercel.app/)  
 
-
-![Dashboard Preview]
 <img width="1902" height="905" alt="image" src="https://github.com/user-attachments/assets/ef008a2c-2646-4a1d-88d3-4356d5a9aa14" />  
 <img width="1878" height="855" alt="image" src="https://github.com/user-attachments/assets/b9b98bda-d28f-4bab-801c-b2090e3b8574" />
 
